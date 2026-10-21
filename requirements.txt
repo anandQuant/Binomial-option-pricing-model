@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+ipywidgets>=8.0
+yfinance>=0.2.40
+requests>=2.31
+jupyterlab>=4.0
